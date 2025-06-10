@@ -1,0 +1,21 @@
+{
+  "generator": "evm-events-calls-raw",
+  "state": {
+    "name": "main_proj",
+    "chainName": "mainnet",
+    "contracts": [
+      {
+        "name": "weth",
+        "trackEvents": true,
+        "trackCalls": true,
+        "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+        "initialBlock": 22675435,
+        "trackFactory": null,
+        "factoryCreationEvent": "",
+        "factoryCreationEventFieldIdx": null
+      }
+    ],
+    "dynamic_contracts": null,
+    "confirm_enough_contracts": true
+  }
+}
